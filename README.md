@@ -28,7 +28,9 @@ The reason I decided to do this was because I am learning React and this is one 
 # Getting Started with Create React App
 ------------------------------------------------------------------------
 
-OR If you just want to see the project working, it is currently on netlify:
+### Or If you just want to see the project working, it is currently on netlify:
 
 https://jpdev-movies-showing-live.netlify.app/
 ------------------------------------------------------------------------
+
+Thanks for reading :)
