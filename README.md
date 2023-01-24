@@ -12,7 +12,7 @@ The reason I decided to do this was because I am learning React and this is one 
 
 ### Terminal:
 
-1. ``` $ git clone https://github.com/jspedrovicente/movies-showing-live ```
+1. ```$ git clone https://github.com/jspedrovicente/movies-showing-live ```
 2. ```cd movies-showing-live```
 3. ```$ npm install```
 4. ```npm start```
@@ -22,8 +22,8 @@ The reason I decided to do this was because I am learning React and this is one 
 ### Zip download:
 1. Download the project and extract
 2. Open the folder and right click to open a terminal.
-3. npm install and wait for the dependencies to be installed.
-4. npm start  
+3. ```npm install``` and wait for the dependencies to be installed.
+4. ```npm start```
 5. You're now running it locally and it should pop up on your screen :)
 
 ### Or If you just want to see the project working, it is currently on netlify:
