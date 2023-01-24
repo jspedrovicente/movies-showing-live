@@ -12,10 +12,10 @@ The reason I decided to do this was because I am learning React and this is one 
 
 ### Terminal:
 
-1. $ git clone https://github.com/jspedrovicente/movies-showing-live
-2. cd movies-showing-live
-3. $ npm install
-4. npm start
+1. ``` $ git clone https://github.com/jspedrovicente/movies-showing-live ```
+2. ```cd movies-showing-live```
+3. ```$ npm install```
+4. ```npm start```
 5. You're now running it locally and it should pop up on your screen :)
 
 
