@@ -4,10 +4,13 @@ import Filme from "./pages/Filme";
 import Header from "./components/Header";
 import Erro from "./pages/Erro";
 import Favoritos from "./pages/Favoritos"
+import Mdblogo from "./components/Mdblogo"
+
 function RoutesApp() {
     return (
         <BrowserRouter>
             <Header />
+            <Mdblogo></Mdblogo>
             <Routes>
             <Route path="/" element={<Home />}></Route>
             <Route path="/filme/:id" element={<Filme />}></Route>
