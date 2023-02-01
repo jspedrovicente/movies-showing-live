@@ -1,4 +1,4 @@
-# Movies-Flix
+# Movies-Flix by José Vicente
 
 This project grabs movies that are currently now playing on theater and allows users to like/dislike, watch trailers and read information about the movie.
 
